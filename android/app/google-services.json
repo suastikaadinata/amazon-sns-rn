@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597878537357",
+    "project_id": "sns-f81db",
+    "storage_bucket": "sns-f81db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597878537357:android:ed8b7fc80f2e5e31ae76c4",
+        "android_client_info": {
+          "package_name": "com.amazonsns"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpakOL4NPWnHqcLcekjMBNU6xpcPqvbQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
